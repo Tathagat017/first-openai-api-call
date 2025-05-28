@@ -57,7 +57,7 @@ The application uses the following default settings:
 - Model: GPT-3.5 Turbo
 - Temperature: 0.7
 - Max Tokens: 10
-- Stop Sequence: ["Tathagat"]
+- Stop Sequence: ["Decode"]
 
 You can modify these settings in the `first_call.js` file.
 

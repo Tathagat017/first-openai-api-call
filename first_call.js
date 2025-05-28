@@ -44,7 +44,7 @@ async function chatWithAI() {
       messages: conversationHistory,
       temperature: 0.7,
       max_tokens: 10,
-      stop: ["Tathagat"],
+      stop: ["Decode"],
     });
 
     const aiResponse = response.choices[0].message.content;
