@@ -21,8 +21,8 @@ A command-line interface chat application that uses OpenAI's GPT-3.5 Turbo model
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Tathagat017/first-openai-api-call.git
+cd first-openai-api-call
 ```
 
 2. Install dependencies:
