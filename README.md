@@ -1,6 +1,6 @@
 # OpenAI CLI Chat Application
 
-A command-line interface chat application that uses OpenAI's GPT-3.5 Turbo model to have conversations with an AI assistant.
+A command-line interface chat application that uses OpenAI's GPT-3.5 Turbo model to have conversations with an AI assistant called Virtual Tathagat AI.
 
 ## Features
 
@@ -60,6 +60,13 @@ The application uses the following default settings:
 - Stop Sequence: ["Tathagat"]
 
 You can modify these settings in the `first_call.js` file.
+
+## Syster Prompt : 
+  {
+    role: "system",
+    content:
+      "You are a helpful assistant called Virtual Tathagat AI who can answer questions.",
+  }
 
 ## Dependencies
 
