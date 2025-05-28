@@ -2,6 +2,9 @@
 
 A command-line interface chat application that uses OpenAI's GPT-3.5 Turbo model to have conversations with an AI assistant called Virtual Tathagat AI.
 
+![image](https://github.com/user-attachments/assets/d34660b4-721a-4934-9025-f7bb23cc17aa)
+
+
 ## Features
 
 - Interactive command-line chat interface
