@@ -1,4 +1,4 @@
-# OpenAI CLI Chat Application
+#FIRST OPEN AI API CALL :  OpenAI CLI Chat Application without memory ( user input from cli)
 
 A command-line interface chat application that uses OpenAI's GPT-3.5 Turbo model to have conversations with an AI assistant called Virtual Tathagat AI.
 
