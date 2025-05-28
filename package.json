@@ -1,0 +1,27 @@
+{
+  "name": "first-openai-api-call",
+  "version": "1.0.0",
+  "description": "First api call using openAi",
+  "main": "first_call.js",
+  "type": "module",
+  "scripts": {
+    "start": "node first_call.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tathagat017/first-openai-api-call.git"
+  },
+  "keywords": [
+    "openAi"
+  ],
+  "author": "Tathagat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tathagat017/first-openai-api-call/issues"
+  },
+  "homepage": "https://github.com/Tathagat017/first-openai-api-call#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "openai": "^4.103.0"
+  }
+}
