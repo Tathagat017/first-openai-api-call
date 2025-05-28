@@ -1,6 +1,6 @@
-# OpenAI CLI Chat Application
+#FIRST OPEN AI API CALL :  OpenAI CLI Chat Application without memory ( user input from cli)
 
-A command-line interface chat application that uses OpenAI's GPT-3.5 Turbo model to have conversations with an AI assistant.
+A command-line interface chat application that uses OpenAI's GPT-3.5 Turbo model to have conversations with an AI assistant called Virtual Tathagat AI.
 
 ## Features
 
@@ -21,8 +21,8 @@ A command-line interface chat application that uses OpenAI's GPT-3.5 Turbo model
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Tathagat017/first-openai-api-call.git
+cd first-openai-api-call
 ```
 
 2. Install dependencies:
@@ -60,6 +60,13 @@ The application uses the following default settings:
 - Stop Sequence: ["Decode"]
 
 You can modify these settings in the `first_call.js` file.
+
+## Syster Prompt : 
+  {
+    role: "system",
+    content:
+      "You are a helpful assistant called Virtual Tathagat AI who can answer questions.",
+  }
 
 ## Dependencies
 
